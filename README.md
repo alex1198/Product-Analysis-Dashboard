@@ -12,3 +12,11 @@ A comprehensive product analytics dashboard built from scratch to track key busi
 ### 🔍 Advanced Filtering - Multi-dimensional slicers for comprehensive analysis
 ### 💡 Custom Tooltips - Detailed insights on hover for enhanced exploration
 ### 📱 Responsive Design - Optimized for various screen sizes and devices
+
+## 🛠️ Technology Stack
+| 🏗️ Category | 💻 Technology | 📋 Description |
+|--------------|---------------|----------------|
+| **Database** | SQL Server | Data storage and management |
+| **Frontend** | React.js | User interface development |
+| **Backend** | Node.js | Server-side logic |
+| **Styling** | Tailwind CSS | Responsive design framework |
