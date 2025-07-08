@@ -26,7 +26,7 @@ A comprehensive product analytics dashboard built from scratch to track key busi
 The dashboard uses sample retail sales data for demonstration purposes.
 
 **Dataset Files:**
-- [`product_data.csv`]((https://github.com/alex1198/Product-Analysis-Dashboard/blob/main/Product_data.csv)) 
-- [`discount_data.csv`]((https://github.com/alex1198/Product-Analysis-Dashboard/blob/main/discount_data.csv)) 
-- [`product_sales.csv`](https://github.com/alex1198/Product-Analysis-Dashboard/blob/main/product_sales.csv) 
+- <a href="https://github.com/alex1198/Product-Analysis-Dashboard/blob/main/Product_data.csv"> Product Data </a>
+- <a href="https://github.com/alex1198/Product-Analysis-Dashboard/blob/main/discount_data.csv"> Discount Data </a>
+- <a href="https://github.com/alex1198/Product-Analysis-Dashboard/blob/main/product_sales.csv"> Product Sales Data </a>
 
