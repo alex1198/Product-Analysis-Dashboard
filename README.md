@@ -6,9 +6,9 @@ A comprehensive product analytics dashboard built from scratch to track key busi
 
 ## ✨ Key Features
 
-🔄 Real-time Data Processing - Automated data refresh from SQL Server
-📈 Interactive KPI Tracking - Revenue, profit, and performance metrics
-🎨 Dynamic Visualizations - Charts, graphs, and cards with drill-down capabilities
-🔍 Advanced Filtering - Multi-dimensional slicers for comprehensive analysis
-💡 Custom Tooltips - Detailed insights on hover for enhanced exploration
-📱 Responsive Design - Optimized for various screen sizes and devices
+### 🔄 Real-time Data Processing - Automated data refresh from SQL Server
+### 📈 Interactive KPI Tracking - Revenue, profit, and performance metrics
+### 🎨 Dynamic Visualizations - Charts, graphs, and cards with drill-down capabilities
+### 🔍 Advanced Filtering - Multi-dimensional slicers for comprehensive analysis
+### 💡 Custom Tooltips - Detailed insights on hover for enhanced exploration
+### 📱 Responsive Design - Optimized for various screen sizes and devices
