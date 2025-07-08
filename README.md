@@ -5,6 +5,7 @@ End-to-End Data Analysis Project using SQL Server, Power BI, and Excel
 A comprehensive product analytics dashboard built from scratch to track key business performance metrics including revenue, profit, and product performance trends. This project demonstrates the complete data analysis pipeline from database creation to interactive dashboard deployment.
 
 ## Dashboard 
+!(https://github.com/alex1198/Product-Analysis-Dashboard/blob/main/Dashboard.png)
 
 ## ✨ Key Features
 
